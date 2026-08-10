@@ -58,19 +58,8 @@
 ---
 
 <div align="center">
-  <h2>🎮 Interactive Contribution Animations (Snake & Pacman)</h2>
-  
-  <h3>🐍 Snake Contribution Graph</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  <br><br>
-
-  <h3>🟡 Pacman Contribution Graph</h3>
-  <img alt="GitHub Pacman Contribution Graph" src="https://cdn.jsdelivr.net/gh/RaihanHadriansyah21/RaihanHadriansyah21@output/pacman.svg">
+  <h2>🎮 Contribution Game Graph</h2>
+  <img alt="GitHub Contribution Game Graph" src="https://cdn.jsdelivr.net/gh/RaihanHadriansyah21/RaihanHadriansyah21@output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
