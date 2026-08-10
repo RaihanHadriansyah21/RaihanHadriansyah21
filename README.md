@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:020617&height=200&section=header&text=Raihan%20Hadriansyah&fontSize=42&fontColor=F8FAFC&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:7F1D1D&height=200&section=header&text=Raihan%20Hadriansyah&fontSize=48&fontColor=FFFFFF&fontType=Righteous&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <h3>🎓 Telecommunication Engineering Student &nbsp;|&nbsp; 🧠 Aspiring AI & ML Engineer</h3>
   <p><i>Building end-to-end intelligent systems with Deep Learning Computer Vision, Asynchronous Microservice Backends, and Modern Web/Mobile UI.</i></p>
 
   <p align="center">
     <a href="mailto:raihanhadriansyah111@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/RaihanHadriansyah21">
       <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -69,5 +69,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0F172A&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,100:DC2626&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
