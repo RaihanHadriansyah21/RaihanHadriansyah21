@@ -46,6 +46,16 @@ I build end-to-end intelligent systems, combining deep learning computer vision,
 
 ---
 
+## 🐍 Contribution Graph Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 📬 Connect
 
 - **GitHub**: [@RaihanHadriansyah21](https://github.com/RaihanHadriansyah21)
