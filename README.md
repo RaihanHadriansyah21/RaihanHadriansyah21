@@ -1,8 +1,18 @@
-# Hi, I'm Raihan Hadriansyah 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=200&section=header&text=Raihan%20Hadriansyah&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
-**Telecommunication Engineering Student | Aspiring AI / ML Engineer**
+  <h3>🎓 Telecommunication Engineering Student | 🧠 Aspiring AI & ML Engineer</h3>
+  <p><i>Building end-to-end intelligent systems with Deep Learning Computer Vision, Asynchronous Microservice Backends, and Modern Web/Mobile UI.</i></p>
 
-I build end-to-end intelligent systems, combining deep learning computer vision, asynchronous backend architectures, and modern web/mobile user interfaces.
+  <p align="center">
+    <a href="mailto:raihanhadriansyah111@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/RaihanHadriansyah21">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
 
@@ -11,6 +21,15 @@ I build end-to-end intelligent systems, combining deep learning computer vision,
 - 🧠 **AI & Machine Learning**: Computer Vision (EfficientNetV2, CBAM Attention, MobileNetV2), Time-Series Forecasting (Seq2Seq LSTM), Indonesian NLP (Sastrawi, TF-IDF, Recurrent Nets), Edge Deployment (TFLite, TF.js).
 - ⚡ **Backend & Distributed Systems**: Asynchronous Microservices (FastAPI, Python), Task Queues (Redis / RQ Worker), Containerization (Docker Compose), Reverse Proxies (Caddy), Database Systems (Supabase PostgreSQL, RLS, MongoDB).
 - 📱 **Web & Mobile Engineering**: Cross-Platform Mobile Apps (Flutter, Dart), Full-Stack Web Applications (Next.js 16 App Router, React 19, TypeScript, Tailwind CSS).
+
+---
+
+<div align="center">
+  <h2>🛠️ Tech Stack & Skillset</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,nextjs,react,ts,js,flutter,dart,supabase,postgres,mongodb,redis,docker,git,html,css" alt="Skill Icons" />
+  </a>
+</div>
 
 ---
 
@@ -38,25 +57,17 @@ I build end-to-end intelligent systems, combining deep learning computer vision,
 
 ---
 
-## 🛠️ Verified Demonstrated Technologies
-
-- **Languages**: Python, TypeScript, JavaScript, Dart, HTML/CSS
-- **Frameworks & Libraries**: FastAPI, Next.js, React, Flutter, TensorFlow, Keras, Scikit-Learn, OpenCV, Pillow, Pandas, NumPy
-- **Database & Cloud**: Supabase (PostgreSQL / Auth / Storage), Redis, MongoDB, Vercel, Railway, Docker, Caddy
-
----
-
-## 🐍 Contribution Graph Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <h2>🐍 Contribution Graph Animation</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-## 📬 Connect
-
-- **GitHub**: [@RaihanHadriansyah21](https://github.com/RaihanHadriansyah21)
-- **Location**: Bandung, Indonesia
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a29bfe,100:6C5CE7&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
