@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=200&section=header&text=Raihan%20Hadriansyah&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:020617&height=200&section=header&text=Raihan%20Hadriansyah&fontSize=42&fontColor=F8FAFC&animation=fadeIn" width="100%" alt="Header Banner" />
 
-  <h3>🎓 Telecommunication Engineering Student | 🧠 Aspiring AI & ML Engineer</h3>
+  <h3>🎓 Telecommunication Engineering Student &nbsp;|&nbsp; 🧠 Aspiring AI & ML Engineer</h3>
   <p><i>Building end-to-end intelligent systems with Deep Learning Computer Vision, Asynchronous Microservice Backends, and Modern Web/Mobile UI.</i></p>
 
   <p align="center">
     <a href="mailto:raihanhadriansyah111@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
     </a>
     <a href="https://github.com/RaihanHadriansyah21">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 </div>
@@ -27,7 +27,7 @@
 <div align="center">
   <h2>🛠️ Tech Stack & Skillset</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,nextjs,react,ts,js,flutter,dart,supabase,postgres,mongodb,redis,docker,git,html,css" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,nextjs,react,ts,js,flutter,dart,supabase,postgres,mongodb,redis,docker,git,html,css&theme=dark" alt="Skill Icons" />
   </a>
 </div>
 
@@ -69,5 +69,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a29bfe,100:6C5CE7&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0F172A&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
