@@ -5,6 +5,8 @@
   <p><i>Building end-to-end intelligent systems with Deep Learning Computer Vision, Asynchronous Microservice Backends, and Modern Web/Mobile UI.</i></p>
 
   <p align="center">
+    <a href="https://www.linkedin.com/in/reyhadri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/reyhadri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="mailto:raihanhadriansyah111@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
     <a href="https://github.com/RaihanHadriansyah21"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
   </p>
