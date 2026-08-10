@@ -70,7 +70,7 @@
   <br><br>
 
   <h3>🟡 Pacman Contribution Graph</h3>
-  <img alt="GitHub Pacman Contribution Graph" src="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/pacman.svg">
+  <img alt="GitHub Pacman Contribution Graph" src="https://raw.githubusercontent.com/RaihanHadriansyah21/RaihanHadriansyah21/output/github-contribution-grid-pacman.svg">
 </div>
 
 ---

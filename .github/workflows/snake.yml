@@ -28,7 +28,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/pacman.svg?color_snake=#facc15&color_dots=#1e293b,#065f46,#047857,#10b981,#34d399
+            dist/github-contribution-grid-pacman.svg?color_snake=#facc15&color_dots=#1e293b,#065f46,#047857,#10b981,#34d399
 
       # Push generated assets to output branch
       - name: Push Animations to Output Branch
